@@ -1,0 +1,93 @@
+Category
+
+Mortgage
+Trash | Water | Sewage
+Electric
+Gas
+Internet
+Bills
+
+Savings
+Investments and Savings
+
+SaaS
+Gifts
+Misc
+
+Dining (travel)
+Misc (travel)
+Flights
+Hotels
+Travel
+
+Dustin (Reimbursement)
+Sav (Reimbursement)
+Reimbursable
+Reimbursement
+
+Furniture
+Durable
+Consumable
+Household
+
+Cash Reserves
+Cash
+
+Ent - Misc
+Coffee
+Bars
+Dine
+Wine
+Entertainment
+
+Misc (Home)
+Landscaping
+Improvements
+Repairs and Maintaince
+Home
+
+Misc
+Health
+Food
+Care
+Francis
+
+Farm Box
+Misc (Groceries)
+Costco
+General
+Groceries
+Media
+Media - TV
+Media - Other
+
+Fitness
+Supplements
+Health and Wellness
+
+Venza - Loan
+Venza - Misc
+Venza - Repair
+Venza - Insurance
+Venza - Gas
+Venza
+
+4Runner - Gas
+4 Runner - Insurance
+4Runner - Repair
+4Runner - Misc
+4Runner
+
+Income - Interest
+Income - Dustin
+Income - Sav
+Income
+Starting Balances
+Income Total
+
+Uncategorized & Off Budget
+Uncategorized
+Transfers
+Off Budget
+
+Totals

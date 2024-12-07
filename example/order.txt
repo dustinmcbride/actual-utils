@@ -1,0 +1,12 @@
+Category
+
+Mortgage
+Trash | Water | Sewage
+Electric
+Gas
+Internet
+Total Bills
+
+Car Payment
+Car Gas
+Total Car
