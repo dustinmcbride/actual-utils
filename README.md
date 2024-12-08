@@ -2,6 +2,9 @@
 Takes copied and pasted data from an Actual Budget Report Screen and returns a ordered CSV
 
 
+![alt text](./docs/ab_report_screen.png =250x250)
+
+
 ## Quick Start
 
 ```
