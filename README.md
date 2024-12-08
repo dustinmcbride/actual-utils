@@ -1,9 +1,7 @@
 # Actual Utils
 Takes copied and pasted data from an Actual Budget Report Screen and returns a ordered CSV
 
-
-![alt text](./docs/ab_report_screen.png =250x250)
-
+<img src="docs/ab_report_screen.png" width="600">
 
 ## Quick Start
 
@@ -31,14 +29,9 @@ You will be warned if your order and inputs don't match
 A file with today's date will be written to the output directory
 
 ## Actual Report Settings
-Table Type: Data Table
-
-Mode: Total
-
-Split: Category
-
-Type: Net
-
-Interval: Any
-
-Options: All on
+Table Type: Data Table  
+Mode: Total  
+Split: Category  
+Type: Net  
+Interval: Any  
+Options: All on 
