@@ -1,7 +1,6 @@
 import fs from 'fs'
 import path from 'path';
 
-// Function to write CSV array to a file
 export default function writeCsvToFile(csvArray, outputPath) {
 
     if (!fs.existsSync(outputPath)){

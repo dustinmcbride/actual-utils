@@ -1,4 +1,27 @@
 Category
+Income - Dustin
+Income - Sav
+Income - Interest
+Income Total
+
+Ent - Misc
+Coffee
+Bars
+Dine
+Wine
+Entertainment
+
+Dining - Travel
+Misc - Travel
+Flights - Travel
+Hotels - Travel
+Travel
+
+Farm Box
+Misc (Groceries)
+Costco
+General
+Groceries
 
 Mortgage
 Trash | Water | Sewage
@@ -14,15 +37,9 @@ SaaS
 Gifts
 Misc
 
-Dining (travel)
-Misc (travel)
-Flights
-Hotels
-Travel
-
-Dustin (Reimbursement)
-Sav (Reimbursement)
-Reimbursable
+Dustin - Reimbursement
+Sav - Reimbursement
+External - Reimbursable
 Reimbursement
 
 Furniture
@@ -30,20 +47,10 @@ Durable
 Consumable
 Household
 
-Cash Reserves
-Cash
-
-Ent - Misc
-Coffee
-Bars
-Dine
-Wine
-Entertainment
-
 Misc (Home)
 Landscaping
 Improvements
-Repairs and Maintaince
+Repairs and Maintenance
 Home
 
 Misc
@@ -52,11 +59,6 @@ Food
 Care
 Francis
 
-Farm Box
-Misc (Groceries)
-Costco
-General
-Groceries
 Media
 Media - TV
 Media - Other
@@ -73,21 +75,20 @@ Venza - Gas
 Venza
 
 4Runner - Gas
-4 Runner - Insurance
+4Runner - Insurance
 4Runner - Repair
 4Runner - Misc
 4Runner
-
-Income - Interest
-Income - Dustin
-Income - Sav
-Income
-Starting Balances
-Income Total
 
 Uncategorized & Off Budget
 Uncategorized
 Transfers
 Off Budget
 
+Cash Reserves
+Cash
+
 Totals
+
+Income
+Starting Balances

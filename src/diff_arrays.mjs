@@ -4,13 +4,28 @@
  * @returns {Object} - An object containing additions and removals.
  */
 export default function diffArrays(order, data) {
+
    const input = data.map(a => a[0])
+   const cleanedOrder = order.filter(r => r != '')
    
-    const set1 = new Set(order);
+    const set1 = new Set(cleanedOrder);
     const set2 = new Set(input);
 
     const additions = input.filter(item => !set1.has(item));
-    const removals = order.filter(item => !set2.has(item));
+    const removals = cleanedOrder.filter(item => !set2.has(item));
 
-    return { additions, removals };
+
+    if (additions.length) {
+        console.log('\n⚠️ Additions (in `input` but not in `order`):')
+        console.log(additions);
+    }
+    
+    if (removals.length) {
+        console.log('\n⚠️  Removals (in `order` but not in `input`):')
+        console.log(removals);
+    }
+
+    const hasDiff = additions.length || removals.length 
+
+    return { additions, removals, hasDiff };
 }

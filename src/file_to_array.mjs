@@ -1,4 +1,3 @@
-
 import fs from 'fs'
 
 export default function fileToArray(filePath) {
@@ -7,7 +6,8 @@ export default function fileToArray(filePath) {
       const fileContent = fs.readFileSync(filePath, 'utf-8');
       
       // Split the content into an array of lines
-      const linesArray = fileContent.split(/\r?\n/).filter(line => line.trim() !== '');
+      
+      let linesArray = fileContent.split(/\r?\n/).map(line => line.trim());
       
       return linesArray;
     } catch (error) {
